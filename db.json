@@ -1,4 +1,54 @@
 {
+  "bannersMobile": [
+    {
+      "id": 1,
+      "url": "/mobile banners/banner1.png"
+    },
+    {
+      "id": 2,
+      "url": "/mobile banners/banner2.png"
+    },
+    {
+      "id": 3,
+      "url": "/mobile banners/banner3.png"
+    },
+    {
+      "id": 4,
+      "url": "/mobile banners/banner4.png"
+    },
+    {
+      "id": 5,
+      "url": "/mobile banners/banner5.png"
+    },
+    {
+      "id": 6,
+      "url": "/mobile banners/banner6.png"
+    },
+    {
+      "id": 7,
+      "url": "/mobile banners/banner7.png"
+    },
+    {
+      "id": 8,
+      "url": "/mobile banners/banner8.png"
+    },
+    {
+      "id": 9,
+      "url": "/mobile banners/banner9.png"
+    },
+    {
+      "id": 10,
+      "url": "/mobile banners/banner10.png"
+    },
+    {
+      "id": 11,
+      "url": "/mobile banners/banner11.png"
+    },
+    {
+      "id": 12,
+      "url": "/mobile banners/banner12.png"
+    }
+  ],
   "svgImg": [
     {
       "id": 1,
@@ -300,12 +350,6 @@
       "isPrimeNinja": true,
       "isFlash": true,
       "exclusiveOnPrimeNinjaPrice": null
-    }
-  ],
-  "teste": [
-    {
-      "id": 55,
-      "name": "teste"
     }
   ]
 }
