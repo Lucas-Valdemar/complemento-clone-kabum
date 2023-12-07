@@ -1,52 +1,48 @@
 {
   "bannersMobile": [
     {
-      "id": 1,
-      "url": "/mobile banners/banner1.png"
-    },
-    {
       "id": 2,
-      "url": "/mobile banners/banner2.png"
+      "url": "/mobileBanners/banner2.jpg"
     },
     {
       "id": 3,
-      "url": "/mobile banners/banner3.png"
+      "url": "/mobileBanners/banner3.jpg"
     },
     {
       "id": 4,
-      "url": "/mobile banners/banner4.png"
+      "url": "/mobileBanners/banner4.jpg"
     },
     {
       "id": 5,
-      "url": "/mobile banners/banner5.png"
+      "url": "/mobileBanners/banner5.png"
     },
     {
       "id": 6,
-      "url": "/mobile banners/banner6.png"
+      "url": "/mobileBanners/banner6.png"
     },
     {
       "id": 7,
-      "url": "/mobile banners/banner7.png"
+      "url": "/mobileBanners/banner7.jpg"
     },
     {
       "id": 8,
-      "url": "/mobile banners/banner8.png"
+      "url": "/mobileBanners/banner8.jpg"
     },
     {
       "id": 9,
-      "url": "/mobile banners/banner9.png"
+      "url": "/mobileBanners/banner9.jpg"
     },
     {
       "id": 10,
-      "url": "/mobile banners/banner10.png"
+      "url": "/mobileBanners/banner10.png"
     },
     {
       "id": 11,
-      "url": "/mobile banners/banner11.png"
+      "url": "/mobileBanners/banner11.png"
     },
     {
       "id": 12,
-      "url": "/mobile banners/banner12.png"
+      "url": "/mobileBanners/banner12.png"
     }
   ],
   "svgImg": [
